@@ -13,6 +13,7 @@ Este es un ejercio de practica a la introduccios del uso de React, para estudian
 
 ## Link Deploy
 
+[link web](https://tpreactpto3.netlify.app/)
 
 ## Autor
 
